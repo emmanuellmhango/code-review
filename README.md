@@ -1,5 +1,5 @@
 # Code Review
-> Welcome, This code is adapted from . The code was used with his permission and is sorely going to be used for testing of good code review standards.
+> Welcome, This code is adapted from *Roman Whiteman*. The code was used with his permission and is sorely going to be used for testing of good code review standards.
 
 ### Built With
 
